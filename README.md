@@ -21,4 +21,6 @@ A private collection of resources for preparing tech interviews
 - https://designgurus.org/course/grokking-the-coding-interview
 - https://www.frontendinterviewhandbook.com/introduction/
 - https://github.com/yangshun/tech-interview-handbook
-- 
+- https://www.digitalocean.com/community
+- https://firstsiteguide.com/
+- https://www.sitepoint.com/
