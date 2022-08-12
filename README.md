@@ -25,3 +25,4 @@ A private collection of resources for preparing tech interviews
 - https://firstsiteguide.com/
 - https://www.sitepoint.com/
 - https://www.softwaretestinghelp.com/the-difference-between-unit-integration-and-functional-testing/#What_is_Unit_Testing
+- [useEffect() cleanup](https://blog.logrocket.com/understanding-react-useeffect-cleanup-function/)
