@@ -27,6 +27,7 @@ A private collection of resources for preparing tech interviews
 - https://www.softwaretestinghelp.com/the-difference-between-unit-integration-and-functional-testing/#What_is_Unit_Testing
 - [useEffect() cleanup](https://blog.logrocket.com/understanding-react-useeffect-cleanup-function/)
 - https://www.codingninjas.com/codestudio
+- https://www.hackthebox.com/
 
 ## Offtopic
 - https://franknielsen.github.io/Divergence/index.html
