@@ -30,3 +30,11 @@ A private collection of resources for preparing tech interviews
 
 ## Offtopic
 - https://franknielsen.github.io/Divergence/index.html
+- https://en.wikipedia.org/wiki/HTTP_ETag
+- https://en.wikipedia.org/wiki/Change_detection_and_notification
+- https://en.wikipedia.org/wiki/HTTP_cookie
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control
+- https://en.wikipedia.org/wiki/Transport_Layer_Security
+- https://en.wikipedia.org/wiki/Zombie_cookie
+- https://sharp.pixelplumbing.com/
+- http://www.arctic.org/~dean/tracking-without-cookies.html
